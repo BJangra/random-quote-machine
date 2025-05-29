@@ -6,7 +6,8 @@ This is a simple web application that displays random quotes. The user can click
 2) Automatically changes the background color when a new quote is displayed.
 
 # Technologies Used
-HTML
-CSS
-JavaScript
-jQuery
+1) HTML
+2) CSS
+3) JavaScript
+4) jQuery
+
